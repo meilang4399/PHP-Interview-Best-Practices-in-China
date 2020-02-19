@@ -109,7 +109,7 @@
 ## 数据库篇
 * MySQL
     * CRUD
-    * JOIN、LEFT JOIN 、RIGHT JOIN、INNER JOIN
+    * [JOIN、LEFT JOIN 、RIGHT JOIN、INNER JOIN](https://blog.csdn.net/u012787512/article/details/101705263)
     * UNION
     * GROUP BY + COUNT + WHERE 组合案例
     * [常用 MySQL 函数，如：now()、md5()、concat()、uuid()等](https://www.w3schools.com/sql/sql_ref_mysql.asp)
